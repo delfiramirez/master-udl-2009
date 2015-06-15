@@ -1,0 +1,765 @@
+/*
+      * { outline: 2px dotted red }
+
+      * * { outline: 2px dotted green }
+
+      * * * { outline: 2px dotted orange }
+
+      * * * * { outline: 2px dotted blue }
+
+      * * * * * { outline: 1px solid red }
+
+      * * * * * * { outline: 1px solid green }
+
+      * * * * * * * { outline: 1px solid orange }
+
+      * * * * * * * * { outline: 1px solid blue }
+
+*/
+
+@namespace "http://www.w3.org/1999/xhtml";
+
+@media screen
+{
+    *
+    {
+        margin: 0;
+        padding: 0;
+    }
+
+    :focus
+    {
+        outline: 0;
+    }
+
+    html>body
+    {
+        position:relative;
+        margin: 0;
+        padding: 0;
+        /*overflow: hidden; */
+        font-size: 80.5%;
+        font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+        background: #707989;
+        color: #72828b;
+        text-align: center;
+
+    }
+
+    /*Elements
+
+    ************************/
+
+    code
+    {
+
+    }
+
+    acronym,
+    abbr,
+    span.caps
+    {
+        cursor: help;
+    }
+
+    acronym,
+    abbr
+
+    {
+        border-bottom: 1px dashed #999;
+    }
+
+    hr
+    {
+        clear: both;
+        visibility: hidden;
+        height: 1px;
+    }
+
+    /* Tables
+
+    ***********************************/
+
+    table
+    {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        float:left;
+    }
+
+    caption
+    {
+        padding: 0 0 5px 0;
+        width: 380px;
+        font: italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+        text-align: right;
+    }
+
+    th
+    {
+        font: bold 11px "Frutiger", "Lucida Grande", Arial, Helvetica, sans-serif;
+        color: #4f6b72;
+        border-right: 1px solid #C1DAD7;
+        border-bottom: 1px solid #C1DAD7;
+        border-top: 1px solid #C1DAD7;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        text-align: left;
+        padding: 6px 6px 6px 6px;
+        background: #fff;
+    }
+
+    th.nobg
+    {
+        border-top: 0;
+        border-left: 0;
+        border-right: 1px solid #C1DAD7;
+        background: none;
+    }
+    td
+    {
+        font: bold 12px Myriad, "Myriad Roman", "Myriad Pro", "Myriad Web", "Lucida Grande", Arial, Helvetica, sans-serif;
+        border-right: 1px solid #C1DAD7;
+        border-bottom: 1px solid #C1DAD7;
+        background: #fff;
+        padding: 6px 6px 6px 6px;
+        color: #4477BB;
+
+        text-align:left;
+    }
+
+    td.alt,
+    table td.alt
+    {
+        background: #F5FAFA;
+        color: #797268;
+    }
+
+    th.spec
+    {
+        border-left: 1px solid #C1DAD7;
+        border-top: 0;
+        background: #f0f0f0 url(../images/base/bullet1.gif) no-repeat;
+        font: bold 12px Arial, Helvetica, sans-serif;
+        letter-spacing: .03em;
+    }
+
+    th.specalt
+    {
+        border-left: 1px solid #C1DAD7;
+        border-top: 0;
+        background: #f5fafa url(../images/base/bullet1.gif) no-repeat;
+        font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+        color: #797268;
+    }
+
+    /* Form
+
+    *****************************/
+
+    form
+    {
+        margin: 0;
+    }
+
+    fieldset
+    {
+        display: none;
+    }
+
+    label
+    {
+        display:block;
+
+    }
+
+    input
+    {
+        display:block;
+
+    }
+
+    .button
+    {
+        /*
+            -moz-border-radius: 1px;
+            -webkit-border-radius: 1px;
+            padding: 4px 3px 1px;
+            border-radius: 1px;
+            margin-right: 0.5em;
+            background-color: #6f0047;
+            background-image:url(../images/base/button.png);
+            background-repeat:no-repeat;
+            overflow: hidden;
+            cursor: pointer;
+        */
+    }
+
+    select
+    {
+        display:block;
+
+    }
+
+    option
+    {
+        display:block;
+
+    }
+
+
+    /*Headers
+
+    ************************/
+    h1,
+    h1.titol,
+    h1.titol a
+    {
+        display: block;
+        font-size: 2em;
+        color: #fff;
+        text-indent: -9999.9999px;
+        display: block;
+        width: 855px;
+        height: 57px;
+        line-height: 1.05em;
+        background: transparent url(../images/cat/h1.png) no-repeat top left;
+        margin-top: 80px;
+        margin-left: 10px;
+        overflow: hidden;
+    }
+
+    h2,
+    h2 a
+    {
+        display: block;
+        font-size: 1.6em;
+        line-height: 1.05em;
+        text-indent: -9999.9999px;
+        width: 761px;
+        height: 34px;
+        color: #fff;
+        background: transparent url(../images/cat/h2.png) no-repeat top left;
+        margin-left: 150px;
+        margin-top: 5px;
+        overflow: hidden;
+    }
+
+    h3,
+    h3 a
+    {
+        text-align: left;
+        font-size: 2em;
+        color: #6f0047;
+        height: 35px;
+        line-height: 1.05em;
+        padding: 10px 0 0 15px;
+        margin: 12px;
+        border-bottom: 1px solid #b2c9ce;
+        text-shadow: 0 0 0 #fff;
+    }
+
+    h4
+    {
+        text-align: left;
+        margin: 15px;
+        padding: 10px 0px 0px 15px;
+        font-size: 135%;
+        line-height: 1.05em;
+        border-bottom: 1px dotted rgb(178, 201, 206);
+        color: rgb(52, 103, 153);
+        height: 35px;
+        text-shadow: 0 0 0 #fff;
+    }
+
+    h5
+    {
+        text-align: left;
+        padding: 10px 0px 0px 15px;
+        font-size: 135%;
+        line-height: 1.05em;
+        color: rgb(52, 103, 153);
+        text-shadow: 0px 1px 2px #edede7;
+    }
+
+    /* Text
+
+    *****************************/
+
+    p
+    {
+        text-align: left;
+        margin: 15px;
+        font-size: 130%;
+        line-height: 1.6em;
+    }
+
+    a,
+    #main p a
+    {
+        font: 100%/1.95 "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+        color: #4b4b4b;
+        text-decoration:underline;
+    }
+
+    a:hover
+    {
+        text-decoration:underline;
+    }
+
+    a:link
+    {
+        text-decoration: none;
+    }
+
+    a img
+    {
+        border: none;
+    }
+
+    /* List
+
+    ***********************************/
+
+
+    dl dt,
+    dl dd
+    {
+        font: 110%/1.95 "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    }
+
+    dl
+    {
+        color: #0d2b64;
+    }
+
+    dt,
+    dd
+    {
+        margin: 0 5px 5px opx;
+        padding: 2px 0px 0px 0.875em;
+        color: #0d2b64;
+
+    }
+
+    dt a:link
+    {
+        margin: 0 5px 5px 5px;
+        padding: 5px 5px 0px 0.875em;
+        color: #0d2b64;
+        text-decoration: underline;
+
+    }
+
+    dt a:visited
+    {
+        text-decoration: none;
+        color: #990;
+    }
+
+    dt a:hover
+    {
+        text-decoration: none;
+        color: #0d2b64;
+    }
+
+    dt a:active
+    {
+        margin: 0 5px 5px 5px;
+        padding: 5px 5px 0px 0.875em;
+        color: #069;
+        text-decoration: none;
+
+    }
+
+    ul,
+    ol
+    {
+        list-style-type: none;
+    }
+
+    ul[id|=nav],
+    ul[id|=nav] li
+    {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+
+    }
+
+
+    /* Content Main
+
+    ***********************************/
+
+
+    div#wrapper
+    {
+        position:relative;
+        overflow: hidden;
+        width: 990px;
+        min-height: 1200px;
+        margin: 0 auto;
+        padding: 0;
+        background: #fff url(../images/base/bg.jpg) repeat-x top left;
+        text-align: center;
+        border-left: 10px solid #fff;
+        border-right: 10px solid #fff;
+
+    }
+
+    div#topframe
+    {
+        position:relative;
+        float: left;
+        overflow: hidden;
+        width: 980px;
+        height: 63px;
+        display: block;
+        background: transparent url(../images/en/topframe.jpg) no-repeat left;
+
+    }
+
+    div#header
+    {
+        position:relative;
+        float: left;
+        width:980px;
+        height: 400px;
+        display: block;
+
+        margin-top: 18px;
+        margin-left: 0px;
+        margin-right:0px;
+        margin-bottom: 0px;
+        padding: 0;
+        background: transparent url(../images/base/logo1.jpg) top left no-repeat;
+        border-bottom:  2px solid #fff;
+        overflow: hidden;
+    }
+
+    div#busca
+    {
+        position:relative;
+        float: right;
+        margin-top: 5px;
+        margin-left: 700px;
+    }
+
+    div#content
+    {
+        position:relative;
+        float: left;
+        width: 980px;
+        min-height: 600px;
+    }
+
+    .main
+    {
+        position:relative;
+        float: left;
+        width: 700px;
+        margin-top: 10px;
+        border-bottom: 2px #edede7 solid;
+        border-right:  1px dashed #edede7;
+    }
+
+    div#content .main h3
+    {
+        margin: 15px;
+        padding: 10px 0 0 25px;
+        font-size: 190%;
+        font-variant: small-caps;
+        color: 6f0047;
+        height: 35px;
+        line-height: 1.05em;
+        background-color: transparent;
+        border-bottom: 2px solid #234b7a;
+        letter-spacing: .04em;
+    }
+
+    div#content .main p a:link
+    {
+        font: 100%/1.95 "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+        color: #4b4b4b;
+        text-decoration:underline;
+    }
+
+    div#content li
+    {
+        list-style-type:none;
+        line-height:1.6em;
+        margin-bottom:.9em;
+    }
+
+
+    /* Navigation
+
+    ***********************************/
+
+    div#navigation
+    {
+        position:relative;
+        width: 980px;
+        height: 50px;
+        display: block;
+        margin-left: 5px;
+        margin-top: 40px;
+        margin-bottom: 0px;
+        background: transparent url(../images/base/menusup.jpg) no-repeat left;
+        font-size:90%;
+    }
+
+    div#navigation ul
+    {
+        width: 980px;
+        margin: 0;
+        padding: .6em 0 0 0;
+        text-align: left;
+    }
+
+    div#navigation li
+    {
+        margin: 0;
+        /*padding-top: .6em;*/
+        padding:0;
+        display: inline;
+
+    }
+
+    div#navigation ul li
+    {
+        margin: 0;
+        padding:0;
+        display: inline;
+        font-size: 99%;
+        color: #6f0047;
+        letter-spacing: .001em;
+    }
+
+    div#navigation ul li a
+    {
+        margin: 0;
+        padding: .2em .4em;
+        text-decoration: none;
+        color: #6f0047;
+        border-right: 1px solid #fff;
+        text-shadow: 0 0 0 #fff;
+    }
+
+    div#navigation ul li a:hover
+    {
+        margin: 0;
+        padding: .2em .5em;
+        color: #ffffff;
+        text-decoration: none;
+        border-right: 1px solid #fff;
+        text-shadow: 0 0 0 #fff;
+    }
+
+
+    /* Sidebar Aside
+
+    ***********************************/
+    .sidebar
+    {
+        position:relative;
+        float: left;
+        width: 220px;
+        margin-left: 15px;
+        padding-top: 20px;
+        color: #666;
+
+    }
+
+    .sidebar ul
+    {
+        list-style-type: none;
+    }
+
+    .sidebar ul li
+    {
+        margin: 0;
+        padding-top: 20px;
+        text-align: center;
+
+    }
+
+    .sidebar ul li a, .sidebar ul li a:hover
+    {
+
+        width: 232px;
+        height: 120px;
+        display: block;
+        font-size: 1.5em;
+        background: transparent url(../images/base/sidebar.png) top left no-repeat;
+        color: #bababa;
+        text-decoration: underline;
+        text-shadow: 0 0 0 #fff;
+    }
+
+
+    /* Footer
+    ***********************************/
+
+    div#footer
+    {
+        position:relative;
+        width: 980px;
+        height: 189px;
+        display: block;
+        margin: 0;
+        padding-top: 10px;
+        background: transparent url(../images/base/footer.jpg) no-repeat left;
+
+    }
+
+    div#footmenu
+    {
+        position:relative;
+        width: 100%;
+        height: 66px;
+        margin-top: 50px;
+        padding-top: 8px;
+        text-align: center;
+        color: #6f0047;
+        background: transparent;
+        font-size: 95%;
+    }
+
+
+    div#footmenu ul
+    {
+        width: 100%;
+        text-align: center;
+
+    }
+
+    div#footmenu ul li
+    {
+        font-size: 110%;
+        font-variant: small-caps;
+        color: #6f0047;
+    }
+
+    div#footmenu li
+    {
+        display: inline;
+        color: #6f0047;
+    }
+
+    div#footmenu ul li a
+    {
+        margin: 0;
+        padding: .2em .6em;
+        font-size:110%;
+        text-decoration: none;
+        color: #6f0047;
+        background: transparent;
+        border-right: 1px solid #fff;
+    }
+
+    div#footmenu ul li a:hover
+    {
+        margin: 0;
+        padding: .2em .6em;
+        font-size:110%;
+        color: #6f0047;
+        background: transparent;
+        border-right: 1px solid #fff;
+    }
+
+    div#footer p
+    {
+        color: #fff;
+        font-size: 100%;
+        text-align: center;
+        line-height: .9em;
+    }
+
+    div#footer p a
+    {
+        color: #fffffe;
+        font-size: .98em;
+        text-align: center;
+        line-height: .9em;
+        text-decoration: none;;
+    }
+
+    div#wrapper #footer a
+    {
+        font: 100%/1.05 "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+        color: #ffffff;
+        text-decoration:none;
+    }
+
+    div#wrapper #footer a:link
+    {
+        font: 100%/1.05 "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+        color: #ffffff;
+        text-decoration:underline;
+    }
+
+    /*********************WINDOW****************/
+
+
+    #windowDOM a.modalCloseImg
+    {
+        position:absolute;
+        top:-15px;
+        right:-18px;
+        z-index:3200;
+        width:25px;
+        height:29px;
+        display:inline;
+        background:url(../images/base/x.png) no-repeat;
+        cursor:pointer;
+    }
+
+    #windowDOM-overlay
+    {
+        background-color:#000;
+    }
+
+    #windowDOM
+    {
+        margin:0;
+        padding:12px;
+        background-color:#fff;
+        border:8px solid #4477BB;
+
+    }
+
+    #windowDOM input .boto
+    {
+        width: 51px;
+        height: 0px !important;
+        height /**/: 34px;
+        margin: 0;
+        padding: 10px 0 0;
+        border: 0;
+        background-color: transparent;
+        background-image:url(../images/base/button.png);
+        background-repeat:no-repeat;
+        /*overflow: hidden;*/
+        cursor: pointer;
+        cursor: hand; /* for IE 5.x */
+    }
+}
+
+/*
+
+Copyright v 0.1 2009 Delfi Ramirez <delfin@segonquart.net> for Master UdL
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*/
