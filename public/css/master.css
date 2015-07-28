@@ -212,6 +212,7 @@
     /*Headers
 
     ************************/
+    
     h1,
     h1.titol,
     h1.titol a
@@ -562,6 +563,7 @@
     /* Sidebar Aside
 
     ***********************************/
+    
     .sidebar
     {
         position:relative;
@@ -586,7 +588,8 @@
 
     }
 
-    .sidebar ul li a, .sidebar ul li a:hover
+    .sidebar ul li a, 
+    .sidebar ul li a:hover
     {
 
         width: 232px;
@@ -750,7 +753,7 @@
 
 /*
 
-Copyright v 0.1 2009 Delfi Ramirez <delfin@segonquart.net> for Master UdL
+Copyright v 0.1 2009 Delfi Ramirez <delfin@segonquart.net> Master  for UdL (LLeida-Spain)
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
