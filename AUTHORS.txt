@@ -1,0 +1,12 @@
+
+Project, Design & Development: Mr. Delfi Ramirez. Segonquart Studio HQ. Summer of 2009.
+
+Uses and acknowledgment:
+
+CSS Tools: Reset CSS, [2007]
+
+Mr. Eric Meyer http://meyerweb.com/eric/tools/css/reset/ 
+
+CSS Tools: Tables CSS, [2005]
+
+Mrs. Verlee a.k.a Duoh! http://veerle-v2.duoh.com/blog/comments/a_css_styled_table/
