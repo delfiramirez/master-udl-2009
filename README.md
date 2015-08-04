@@ -21,11 +21,11 @@ We wanted a unique style sheet that will validate for all browsers of the moment
 
 It has to be noticed that public entities precedence conservative character to the systems and computers used corporatively. For this reason, we analyze and balance between the access to students with more advanced devices than the corporate ones, and the reception and transmission of content through systems the institution, all of these avoiding attacks or future vulnerabilities in access after our implementation into the CMS system (code injection).
 
-Being a public institution the final client, source code must accomplish the accessibility standards and its guidelines required by law in America and the EMEA area.
+Being a public institution the final client, source code must accomplish the accessibility standards and its guidelines required by law in North America and the EMEA area.
 
 The development of the templates, the product branding and UI model proposed, had the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
 
-Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, there was focused  the project and developsment milestones and work into
+Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, we focused  development milestones, mastering the code for future implementations into other CMSs and work into
 
 five essential aspects.
 --------------------------------------------------------------------------------------------------------------------------
