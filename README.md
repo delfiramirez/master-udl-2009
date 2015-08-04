@@ -24,11 +24,11 @@ For this, we conceived a fresh corporate image based upon an innovative palette 
 
 A complete navigation system, and one central column with an aside list linking to external modules, with its structural elements clearly differentiated from the design and column offered by the main content featured in the app.
 
-Being the final client a public educational institution, source code accomplish the accessibility standards and its guidelines, required by law in North America and the EMEA area, and structure must follow the multilanguge capabilities needed.
+Being the final client a public educational institution, source code of the templates have accessibility standards . its guidelines, required by law in North America and the EMEA area, and structure must follow the multilanguge capabilities needed.
 
-It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. For this reason, we analyze the balance between access by students with more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally and externally by the systems of the institution. All of these analysis, avoiding attacks or future vulnerabilities in the use and access of the CMS system (ie: code injection).
+It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. For this reason, we analyze the balance between access by students with more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally and externally by the systems of the institution. All of these analysis, take in considertion security standards, protecting attacks or future vulnerabilities in the use and access to the CMS system (ie: code injection).
 
-Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, we did focus our efforts and plan the development milestones, mastering the code and making possible its implementations into other CMSs.
+Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, efforts were placed into planning the development milestones, mastering the code, and making possible its implementations into other CMSs.
 
 We start to deploy and work into
 
