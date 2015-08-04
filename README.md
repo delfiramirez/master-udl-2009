@@ -1,6 +1,6 @@
 # Master UdL - Template
 
-Custom Desktop & Mobile Template for integration into a OpenPHP CMS system.
+Custom Desktop & Mobile Template for integration into a OpenPHP CMS system. 
 
 
  ![](https://github.com/delfiramirez/master-udl-2009/blob/master/public/assets/splash.jpg)
@@ -25,7 +25,10 @@ Being a public institution the final client, source code must accomplish the acc
 
 The development of the templates, the product branding and UI model proposed, had the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
 
-Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, there was focused  the project and developsment milestones and work in five essential aspects.
+Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, there was focused  the project and developsment milestones and work into
+
+five essential aspects.
+--------------------------------------------------------------------------------------------------------------------------
 
 
 1.- Visual and UI Design. [ Graphical Assets : Don’t rely on colour alone,  Provide clear navigation mechanisms ]
@@ -38,8 +41,8 @@ Under the premise of using open source development for a further and smooth impl
 
 5.- Testing.
 
-Client:  University Institution - Made in the Year 2009
 
+Client:  University Institution. Made with faith in the Year 2009
 --------------------------------------------------------------------------------
 
 #Use
