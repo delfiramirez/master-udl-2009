@@ -5,6 +5,8 @@ Custom Desktop & Mobile Template for integration into a OpenPHP CMS system.
 
  ![](https://github.com/delfiramirez/master-udl-2009/blob/master/public/assets/splash.jpg)
 
+------------------------------------------------------------------
+
 #Case Study
 
 The project, and our mission, was to revitalize some outdated methods and obsolete web technologies are not standardized, which some publications departments of public universities employed.
@@ -21,16 +23,16 @@ Public entities precedence conservative character to the systems and computers u
 
 The development of the product branding and UI model proposed, focused both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
 
-Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, we focus our work in five aspects.
+Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, there was focused  the project and developsment milestones and work in five essential aspects.
 
 
-1.- Visual and UI Design.
+1.- Visual and UI Design. [ Graphical Assets ]
 
-2.- Template XHTML design.
+2.- Template XHTML design. [ Prototype Modelling ]
 
-3.- PHP integration.
+3.- PHP integration for Markdown. [ Functional deployment ]
 
-4.- CSS development.
+4.- CSS development. [ Screen, projector mobile and print ]
 
 5.- Testing.
 
