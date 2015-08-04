@@ -1,6 +1,6 @@
 # Master UdL - Template
 
-Custom Desktop & Mobile Template for a templating OpenPHP system for a University Institution
+Custom Desktop & Mobile Template for integration into a OpenPHP CMS system.
 
 
  ![](https://github.com/delfiramirez/master-udl-2009/blob/master/public/assets/splash.jpg)
@@ -15,7 +15,7 @@ Custom Desktop & Mobile Template for a templating OpenPHP system for a Universit
 
 4.- CSS development
 
-Made in the Year 2009
+Client:  University Institution - Made in the Year 2009
 --------------------------------------------------------------------------------
 
 #Use
