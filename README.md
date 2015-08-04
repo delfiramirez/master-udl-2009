@@ -15,24 +15,26 @@ A fresh corporate image based a palette of colours that will bring quality, sere
 
 A complete navigation system , and one central column with an aside linkin to external modules, with objects clearly differentiated design column content main reading for easy adaptation.
 
-There are still no tablets or reading devices out of beta, in the year 2009, so the CSS code does not provide responsivennes or other queries except those that are permitted by the regulations CSS2 standard by the W3C [ print and aural ] tailoring the visula design to mobile navigation devices like IPhone, and offering the final product, and the set of templates, look identical under different browsers and operating systems.
+There are still no tablets or reading devices out of beta, in the year 2009, so the CSS code does not provide responsivennes or other queries except those that are permitted by the regulations CSS2 standard by the W3C [ print and aural ] tailoring the UI design for mobile nsume cdevices like the Iphone, and offering the final product, and the set of templates, look identical under different browsers and operating systems.
 
 We wanted a unique style sheet that will validate for all browsers of the moment, and the browsers of future, obeying the criteria of web standardization proposed by the W3C, and avoiding custom hacks for each operating system, so in vogue then among developers.
 
-Public entities precedence conservative character to the systems and computers used corporatively, so we analyze and balance between the access to students with more advanced devices than the corporate ones, and the reception and transmission of content through systems the institution, all of these avoiding attacks or vulnerabilities in access (code injection).
+It has to be noticed that public entities precedence conservative character to the systems and computers used corporatively. For this reason, we analyze and balance between the access to students with more advanced devices than the corporate ones, and the reception and transmission of content through systems the institution, all of these avoiding attacks or future vulnerabilities in access after our implementation into the CMS system (code injection).
 
-The development of the product branding and UI model proposed, focused both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
+Being a public institution the final client, source code must accomplish the accessibility standards and its guidelines required by law in America and the EMEA area.
+
+The development of the templates, the product branding and UI model proposed, had the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
 
 Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, there was focused  the project and developsment milestones and work in five essential aspects.
 
 
-1.- Visual and UI Design. [ Graphical Assets ]
+1.- Visual and UI Design. [ Graphical Assets : Don’t rely on colour alone,  Provide clear navigation mechanisms ]
 
-2.- Template XHTML design. [ Prototype Modelling ]
+2.- Template XHTML design. [ Prototype Modelling :  Create tables that transform gracefully. Ensure that documents are clear and simple ]
 
-3.- PHP integration for Markdown. [ Functional deployment ]
+3.- PHP integration for Markdown. [ Functional deployment - Ensure that pages featuring new technologies transform gracefully ]
 
-4.- CSS development. [ Screen, projector mobile and print ]
+4.- CSS development. [ Design for device independence: Screen, projector mobile and print ]
 
 5.- Testing.
 
