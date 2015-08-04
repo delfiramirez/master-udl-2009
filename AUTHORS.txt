@@ -3,6 +3,8 @@ Project, Design & Development: Mr. Delfi Ramirez. Segonquart Studio HQ. Summer o
 
 Uses and acknowledgment:
 
+Images : All images and logotypes (c) University of Lleida or their respective authors.
+
 CSS Tools: Reset CSS, [2007]
 
 Mr. Eric Meyer http://meyerweb.com/eric/tools/css/reset/ 
