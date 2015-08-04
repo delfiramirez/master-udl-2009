@@ -9,23 +9,25 @@ Custom Desktop & Mobile Template for integration into a OpenPHP CMS system.
 
 #Case Study
 
-The project, and our mission, was to revitalize some outdated methods and obsolete web technologies are not standardized, which some publications departments of public universities employed.
+The project, and our mission, was to revitalize some outdated methods and obsolete web technologies that were not standardized, and which some publications departments of public educational silos and universities made use of.
 
-A fresh corporate image based a palette of colours that will bring quality, serenity, empathy and joy to the interested parties to participate and attend an international approach and due to the nature and timing required by the campaign.
+There are still no tablets or reading devices out of beta in the year 2009, so the CSS code does not provide the actual responsivennes or other queries, except those that are permitted by the regulations CSS2 standard by the W3C-WAIG [ print and aural ].
 
-A complete navigation system , and one central column with an aside linkin to external modules, with objects clearly differentiated design column content main reading for easy adaptation.
+We wanted a unique style sheet that will validate for all browsers of the moment, and the browsers of future, obeying the criteria of web standardization proposed by the W3C, and avoiding custom hacks for each operating system, so in vogue then among developers. We tailored the UI design of the templates collection the for mobile consume devices like the Iphone, and keeping in mind to present the final product, and the solution of templates, to look identical under different browsers and its operating systems.
 
-There are still no tablets or reading devices out of beta, in the year 2009, so the CSS code does not provide responsivennes or other queries except those that are permitted by the regulations CSS2 standard by the W3C [ print and aural ] tailoring the UI design for mobile nsume cdevices like the Iphone, and offering the final product, and the set of templates, look identical under different browsers and operating systems.
-
-We wanted a unique style sheet that will validate for all browsers of the moment, and the browsers of future, obeying the criteria of web standardization proposed by the W3C, and avoiding custom hacks for each operating system, so in vogue then among developers.
-
-It has to be noticed that public entities precedence conservative character to the systems and computers used corporatively. For this reason, we analyze and balance between the access to students with more advanced devices than the corporate ones, and the reception and transmission of content through systems the institution, all of these avoiding attacks or future vulnerabilities in access after our implementation into the CMS system (code injection).
-
-Being a public institution the final client, source code must accomplish the accessibility standards and its guidelines required by law in North America and the EMEA area.
+For this, we conceived a fresh corporate image based upon an innovative palette of colours and modern tipography that will bring quality, serenity, empathy and joy to the interested audicence, helping the oneed will to participate and attend an international approach conference or studies, due to the nature and timing required by the campaign.
 
 The development of the templates, the product branding and UI model proposed, had the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
 
-Under the premise of using open source development for a further and smooth implementation in the CMS OpenPHP used by this public institution, we focused  development milestones, mastering the code for future implementations into other CMSs and work into
+A complete navigation system, and one central column with an aside list linkin to external modules, with its structural elements clearly differentiated from the design and column offered by the main content featured in the app.
+
+Being the final client a public educational institution, source code accomplish the accessibility standards and its guidelines, required by law in North America and the EMEA area.
+
+It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. For this reason, we analyze the balance between access by students with more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally and externally by the systems of the institution. All of these analysis, avoiding attacks or future vulnerabilities in the use and access of the CMS system (ie: code injection).
+
+Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, we did focus our efforts and plan the development milestones, mastering the code and making possible its implementations into other CMSs.
+
+We start to deploy and work into
 
 five essential aspects.
 --------------------------------------------------------------------------------------------------------------------------
