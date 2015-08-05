@@ -21,7 +21,7 @@ design
 ------
 For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. There is in mind the universe of resources linked by the URIs in their representations.
 
-For this, there was conceived a fresh corporate image, a retro-modern aesthetic, build upon a collection of heading background figures and an innovative smaller palette of colours, and the use of a solid and modern tipography, with subtle gradients and shadows, and different font sizes to better differentiate discrete areas of content to bring quality, serenity, empathy, even joy into the audicence, optimising the chance to subscribe or to participate in an international studies Master, following the nature and timing required by the campaign.
+For this, there was conceived a fresh corporate image, a retro-modern aesthetic, build upon a collection of heading background figures and an innovative smaller palette of colours, and the use of a solid and modern tipography, with subtle gradients and shadows, and different font sizes to better differentiate discrete areas of content to bring quality, serenity, empathy, even joy into the audicence, optimising the chance to subscribe or to participate following the milestones and timing required by the campaign.
 
 Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and having the final graphical assets ready, the software solution was deployed, to have an identical suave look whether on different browsers and its respective operating systems.
 
