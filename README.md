@@ -19,29 +19,29 @@ There are still no tablets or reading devices out of beta in the year 2009, so t
 
 design
 ------
-For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. We have also in mind the universe of resources linked by the URIs in their representations.
+For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. There is in mind the universe of resources linked by the URIs in their representations.
 
-Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and keeping in mind the final product, the software solution was deployed, to have an identical suave look under different browsers and its respective operating systems.
+For this, there was conceived a fresh corporate image, a retro-modern aesthetic, build upon a collection of heading background figures and an innovative smaller palette of colours, and the use of a solid and modern tipography, with subtle gradients and shadows, and different font sizes to better differentiate discrete areas of content to bring quality, serenity, empathy, even joy into the audicence, optimising the chance to subscribe or to participate in an international studies Master, following the nature and timing required by the campaign.
 
-For this, there was conceived a fresh corporate image based upon a collection of figures and an innovative palette of colours and modern tipography that will bring quality, serenity, empathy and joy to the interested audicence, helping the will to participate and attend to an international approach ourse or studies, due to the nature and timing required by the campaign.
+Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and having the final graphical assets ready, the software solution was deployed, to have an identical suave look under different browsers and its respective operating systems.
 
 usability
 --------
-A complete navigation system, and one central column with an aside list linking to external modules, with its structural elements clearly differentiated from the design and column offered by the main content featured in the app.
+A complete navigation system, located in the header and in the footer, and one central column with an aside list linking to external modules, incorporating structural elements clearly differentiated from the main content featured in this template website application. 
 
-Being the final client a public educational institution, source code of the templates have accessibility standards . its guidelines, required by law in North America and the EMEA area, and structure must follow the multilanguge capabilities needed using metadata and representations of resources.
+Being the final client a public educational institution, the source code of the templates follow the accessibility standards and its guidelines, required by law in North America and the EMEA area. Its structure is adapted to the need of multilanguge capabilities and the content of metadata and representations of resources.
 
 security
 -------
 
-It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. For this reason, we analyze the balance between access by students with more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally and externally by the systems of the institution. 
+It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. For this reason, an analyis tand balance between the access by students uing more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally, and externally, by the systems of the institution. 
 
-All of these analysis, take in considertion security standards, protecting attacks or future vulnerabilities in the use and access to the CMS system (ie: code injection).
+All of these analysis, took in consideration and put in practice security standards, protecting attacks or future vulnerabilities in the use and access to the CMS system (ie: code injection).
 
 deployment
 -------
 
-Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, efforts were placed into planning the development milestones, mastering the code, and making possible its implementations into other CMSs.
+Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, efforts were planning the development milestones, mastering the code, and making possible its implementations into other CMSs.
 
 We start to deploy and work into
 
