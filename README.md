@@ -27,7 +27,7 @@ Tailored the UI design of the templates collection for mobile consume devices li
 
 usability
 --------
-A complete navigation system, located in the header and in the footer, and one central column with an aside list linking to external modules, incorporating structural elements clearly differentiated from the main content featured in this template website application. 
+A complete navigation system, located in the header and in the footer, and one central column with an aside list linking to external modules, incorporates structural elements clearly differentiated from the main content.
 
 Being the final client a public educational institution, the source code of the templates follow the accessibility standards and its guidelines, required by law in North America and the EMEA area. Its structure is adapted to the benefits and need of multilanguge capabilities for metadata and representations of resources.
 
