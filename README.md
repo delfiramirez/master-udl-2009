@@ -23,13 +23,13 @@ For the development of the templates, to achieve the product branding and UI mod
 
 For this, there was conceived a fresh corporate image, a retro-modern aesthetic, build upon a collection of heading background figures and an innovative smaller palette of colours, and the use of a solid and modern tipography, with subtle gradients and shadows, and different font sizes to better differentiate discrete areas of content to bring quality, serenity, empathy, even joy into the audicence, optimising the chance to subscribe or to participate in an international studies Master, following the nature and timing required by the campaign.
 
-Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and having the final graphical assets ready, the software solution was deployed, to have an identical suave look under different browsers and its respective operating systems.
+Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and having the final graphical assets ready, the software solution was deployed, to have an identical suave look whether on different browsers and its respective operating systems.
 
 usability
 --------
 A complete navigation system, located in the header and in the footer, and one central column with an aside list linking to external modules, incorporating structural elements clearly differentiated from the main content featured in this template website application. 
 
-Being the final client a public educational institution, the source code of the templates follow the accessibility standards and its guidelines, required by law in North America and the EMEA area. Its structure is adapted to the need of multilanguge capabilities and the content of metadata and representations of resources.
+Being the final client a public educational institution, the source code of the templates follow the accessibility standards and its guidelines, required by law in North America and the EMEA area. Its structure is adapted to the benefits and need of multilanguge capabilities for metadata and representations of resources.
 
 security
 -------
@@ -43,7 +43,7 @@ deployment
 
 Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, efforts were planning the development milestones, mastering the code, and making possible its implementations into other CMSs.
 
-We start to deploy and work into
+Segmentation of the procces and work was done in
 
 five essential aspects.
 --------------------------------------------------------------------------------------------------------------------------
