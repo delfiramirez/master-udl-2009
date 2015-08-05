@@ -11,13 +11,13 @@ Custom Desktop & Mobile Template for integration into a OpenPHP CMS system.
 
 The project, and our mission, was to revitalize some outdated methods and obsolete web technologies that were not standardized, and which some publications departments of public educational silos and universities made use of.
 
-There are still no tablets or reading devices out of beta in the year 2009, so the CSS code provided here does not meet the actual responsivennes or other queries, except those that are permitted by the regulations of the normative CSS 2.1 standard by the W3C-WAIG [ print and aural ].
-
 We wanted to show a unique style sheet that will validate in all browsers of the market, and will look fresh in the browsers of future, obeying the criteria of web standardization proposed by the W3C, and avoiding custom hacks for each operating system, so in vogue then among developers. 
 
-The development of the templates, the product branding and UI model proposed, had the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project.
+There are still no tablets or reading devices out of beta in the year 2009, so the CSS code provided here does not meet the actual responsivennes or other queries, except those that are permitted by the regulations of the normative CSS 2.1 standard by the W3C-WAIG [ print and aural ].
 
-We tailored the UI design of the templates collection the for mobile consume devices like the Iphone, and keeping in mind to present the final product, and the software solution, to have an identical look under different browsers and its operating systems.
+For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. We have also in mind the universe of resources linked by the URIs in their representations.
+
+We tailored the UI design of the templates collection for mobile consume devices like the Iphone, keeping in mind the final product, and the software solution, had to have an identical look under different browsers and its operating systems.
 
 For this, we conceived a fresh corporate image based upon an innovative palette of colours and modern tipography that will bring quality, serenity, empathy and joy to the interested audicence, helping the oneed will to participate and attend an international approach conference or studies, due to the nature and timing required by the campaign.
 
