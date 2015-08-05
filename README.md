@@ -13,17 +13,17 @@ preface
 ------
 The project, and our mission, was to revitalize some outdated methods and obsolete web technologies that were not standardized, and which some publications departments of public educational silos and universities made use of.
 
-We wanted to show a unique style sheet that will validate in all browsers of the market, and will look fresh in the browsers of future, obeying the criteria of web standardization proposed by the W3C, and avoiding custom hacks for each operating system, so in vogue then among developers. 
+There was the need to show a unique style sheet that will validate in all browsers of the market, and look freshy in the browsers of the future, attending the criteria and guidelines of web standardization established by the W3C, also avoiding custom hacks for each operating system, so in vogue then among developers. 
 
-There are still no tablets or reading devices out of beta in the year 2009, so the CSS code provided here does not meet the actual responsivennes or other queries, except those that are permitted by the regulations of the normative CSS 2.1 standard by the W3C-WAIG [ print and aural ].
+There are still no tablets or reading devices out of beta in the year 2009, so the CSS code provided here does not meet the actual responsivenes neither other queries, except those that are permitted by the normative CSS 2.1 standard by the W3C-WAIG [ print and aural ].
 
 design
 ------
 For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. We have also in mind the universe of resources linked by the URIs in their representations.
 
-We tailored the UI design of the templates collection for mobile consume devices like the Iphone, keeping in mind the final product, and the software solution, had to have an identical look under different browsers and its operating systems.
+Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and keeping in mind the final product, the software solution was deployed, to have an identical suave look under different browsers and its respective operating systems.
 
-For this, we conceived a fresh corporate image based upon an innovative palette of colours and modern tipography that will bring quality, serenity, empathy and joy to the interested audicence, helping the oneed will to participate and attend an international approach conference or studies, due to the nature and timing required by the campaign.
+For this, there was conceived a fresh corporate image based upon a collection of figures and an innovative palette of colours and modern tipography that will bring quality, serenity, empathy and joy to the interested audicence, helping the will to participate and attend to an international approach ourse or studies, due to the nature and timing required by the campaign.
 
 usability
 --------
