@@ -19,34 +19,42 @@ There are still no tablets or reading devices out of beta in the year 2009, so t
 
 design
 ------
-For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. There is in mind the universe of resources linked by the URIs in their representations.
+For the development of the templates, to achieve the product branding and UI model proposed, there was the focus and the scope both in the young audience and in the academic profile of the future users of the educational institution that commited the project. 
 
-For this, there was conceived a fresh corporate image, a retro-modern aesthetic, build upon a collection of heading background figures and an innovative smaller palette of colours, and the use of a solid and modern tipography, with subtle gradients and shadows, and different font sizes to better differentiate discrete areas of content to bring quality, serenity, empathy, even joy into the audicence, optimising the chance to subscribe or to participate following the milestones and timing required by the campaign.
+For this, there was conceived a fresh corporate image, a retro-modern aesthetic, build upon a collection of heading background figures and an innovative smaller palette of colours, together with the use of a solid and modern tipography, adding subtle gradients and shadows, and different font sizes to better differentiate discrete areas of content bringing quality, serenity, empathy, even joy into the audicence, and optimising the choice to subscribe or to participate; following the milestones and timing required by the campaign.
 
-Tailored the UI design of the templates collection for mobile consume devices like the Iphone, and having the final graphical assets ready, the software solution was deployed, to have an identical suave look whether on different browsers and its respective operating systems.
+There is in mind the universe of resources linked by the URIs in their representations, to have an identical look whether on different browsers and its respective operating systems.
+
+Once tailored the UI design of the templates collection for mobile consume devices, like the Iphone, and having the final graphical assets ready, the software solution was deployed.
 
 usability
 --------
 A complete navigation system, located in the header and in the footer, and one central column with an aside list linking to external modules, incorporates structural elements clearly differentiated from the main content.
 
-Being the final client a public educational institution, the source code of the templates follow the accessibility standards and its guidelines, required by law in North America and the EMEA area. Its structure is adapted to the benefits and need of multilanguge capabilities for metadata and representations of resources.
+Being the final client a public educational institution, the source code of the templates follow the accessibility standards and guidelines, required by law in North America and in the EMEA area.
+
+Its structure is adapted to the benefits and need of multilanguge capabilities for metadata and representations of resources.
 
 security
 -------
 
-It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. For this reason, an analyis tand balance between the access by students uing more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally, and externally, by the systems of the institution. 
+It has to be noticed that public entities precedence a conservative character in the systems and computers used corporatively. 
 
-All of these analysis, took in consideration and put in practice security standards, protecting attacks or future vulnerabilities in the use and access to the CMS system (ie: code injection).
+For this reason exposed above, previous analyis and balances between the access to the application made by students who might make use of more advanced or modern devices than the corporate ones, and the reception and transmission of the content and data internally, and externally, by the systems of the institution, were done. 
+
+All of these analysis, took in consideration and put in practice security standards, protecting possible denials, attacks or future vulnerabilities, and preserving the integrity in the use and access to the CMS system (ie: code injection).
 
 deployment
 -------
 
-Under the premise of using open source development for a further and smooth implementation in its CMS OpenPHP, efforts were planning the development milestones, mastering the code, and making possible its implementations into other CMSs.
+Under the choice for an open source development thre is the the premise of providing a smooth integration with the native CMS OpenPHP system.
+
+All efforts were positively focused in the milestones of the process of development, in mastering the code, and in making possible the implementation of the final result into other CMSs.
 
 Segmentation of the procces and work was done in
 
 five essential aspects.
---------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
 
 1.- Visual and UI Design. [ Graphical Assets : Don’t rely on colour alone,  Provide clear navigation mechanisms ]
